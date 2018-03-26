@@ -1,0 +1,26 @@
+{
+  "name": "iu-sass-util",
+  "version": "1.0.0",
+  "description": "sass util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovesora/sass-util.git"
+  },
+  "keywords": [
+    "sass",
+    "utility"
+  ],
+  "author": "liuxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovesora/sass-util/issues"
+  },
+  "homepage": "https://github.com/lovesora/sass-util#readme",
+  "devDependencies": {
+    "stylelintrc": "^1.0.7"
+  }
+}
